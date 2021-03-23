@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Placa mãe</title>
+    <link>https://jp-guimaraes.github.io/slides_motherboard/home/</link>
+    <description>Recent content in Homes on Placa mãe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jp-guimaraes.github.io/slides_motherboard/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_motherboard/home/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_motherboard/home/intro/</guid>
+      <description> Objetivos Conhecer os componentes e funcionalidades da placa-mãe
+Entender as tecnologias envolvidas para dimensionamento de placas-mãe
+ Sumário  O que é? Do que é formado? Barramentos Componentes Slots de expansão Tamanho Chipset   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_motherboard/home/barramentos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_motherboard/home/barramentos/</guid>
+      <description> O que é?   Placa capaz de interconectar todos os componentes que fazem parte do computador
+ Processador Memória Primária Memória Secundária I/O    Transmissão de dados  Quiz Qual transmissão atinge velocidades mais altas?
+ Barramentos Comunicação paralela
+ Controladores Transmissão e Recepção
+Controladores de barramentos
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_motherboard/home/componentes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_motherboard/home/componentes/</guid>
+      <description>Componentes da placa-mãe  Componentes Soquete(s) do(s) processador(es)
+Soquetes de memória
+Alimentação
+Chipset
+SuperIO
+Slots de expansão
+Portas de comunicação
+Chip da BIOS
+Bateria
+&amp;hellip;
+ Componentes (continuação)
+&amp;hellip;
+Conectores de vídeo
+Conectores do painel frontal
+Botões
+Buzzer
+SPDIF
+ Alimentação Conectores de alimentação
+Tensões da fonte
+Tensões de operação dos componentes
+Voltage Regulator Module (VRM)
+Processor Power Module (PPM)
+  Soquete do processador Orientação do processador -&amp;gt; soquete</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_motherboard/home/slots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_motherboard/home/slots/</guid>
+      <description>Slots Processador
+Memória primária
+- RAM  Memória secundária
+- IDE (PATA) - SATA - NVME M2  Slots de expansão
+ Slots de expansão ISA
+AGP
+PCI
+PCI Express (PCIe)
+ PCI Express Conexão ponto a ponto (não é um barramento)
+- exclusivo  Versão
+- Largura de Banda - Clock  Tamanhos
+Pistas (conexão em série full-duplex) x1
+x4 x8 x16 Compatibilidade de conexão   Velocidades Proximidade relevante</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_motherboard/home/tamanhos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_motherboard/home/tamanhos/</guid>
+      <description> Tamanhos Laptops
+Desktops
+ Desktops foto padroes
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_motherboard/home/chipset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_motherboard/home/chipset/</guid>
+      <description>Chipset Chip - SET
+ Chips Gerenciador do fluxo de dados
+Video
+Audio
+Rede
+USB
+I/O
+ Organizações diferentes Processadores com (ou sem) vídeo integrado
+Processadores com (ou sem) controlador de PCIe
+Processadores com (ou sem ou desabilitado) controlador de memória
+- Overclocking de memória -&amp;gt; Dissicronia de frequência com processador  Acesso direto do processador a memória, placa de vídeo
+ Ponte Sul Fusion controller hub (FCH) -&amp;gt; AMD Plataform controller hub (PCH) -&amp;gt; intel</description>
+    </item>
+    
+  </channel>
+</rss>
